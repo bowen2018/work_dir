@@ -7,3 +7,6 @@ bowen2018 dushuang521bbw
 Create a new branch is quick;
 
 Creating a new branch is quick AND simple.
+
+
+Git merge --no-ff model
